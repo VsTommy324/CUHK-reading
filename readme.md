@@ -18,6 +18,5 @@ QAT; model compression; stochasticity;
 
 # Possible Ideas
 
-Low rank & sparsity constraints with RL and gradient policy \cite{Multilinear Tensor Low-Rank Approximation for
-Policy-Gradient Methods in Reinforcement Learning}, \cite{pen_sparse-icassp26}
+Low rank \& sparsity constraints with RL and gradient policy \cite{Multilinear_Tensor Low-Rank Approximation for Policy Gradient Methods in Reinforcement Learning}, \cite{pen_sparse-icassp26}
 
